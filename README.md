@@ -1,1 +1,1 @@
-# apk-malware-samples
+# apk-samples
